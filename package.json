@@ -1,0 +1,8 @@
+{
+  "name": "botcamp",
+  "version": "1.0.0",
+  "description": "Projeto do BotCamp da Impulso Network",
+  "main": "index.js",
+  "author": "Welliton Klein <welliton.dev@gmail.com>",
+  "license": "MPL-2.0"
+}
